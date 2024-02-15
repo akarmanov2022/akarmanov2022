@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- ✨ My name is Arseniy Karmanov
+- 🔭 I'm currently working on Software Engineer at [Startext GmbH](https://startext.de/)
+- 👨‍💻 I love working with Java and Spring
+
+
 ### My Tech Stack
 ![Static Badge](https://img.shields.io/badge/build--blue?style=flat&logo=github&label=GitHub)
 ![Static Badge](https://img.shields.io/badge/build--blue?style=flat&logo=gitlab&label=GitLab)
