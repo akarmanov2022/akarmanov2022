@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - ✨ My name is Arseniy Karmanov
-- 🔭 I'm currently working on Java Developer at [Startext GmbH](https://startext.de/)
+- 🔭 I am currently working as a Java Developer at [Startext GmbH](https://startext.de/)
 - 👨‍💻 I love working with Java and Spring
 
 
