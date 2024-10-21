@@ -1,12 +1,26 @@
-### Hi there 👋
+# Hello there! 👋 I'm Arseniy Karmanov
 
-- ✨ My name is Arseniy Karmanov
-- 🔭 I am currently working as a Java Developer
-- 👨‍💻 I love working with Java and Spring
+Welcome to my GitHub profile! I'm a passionate Java Developer with a strong affinity for building robust applications using Java and Spring. I enjoy tackling complex problems and continuously learning new technologies to enhance my skills.
 
+## 🚀 About Me
+- 🔭 Currently working as a **Java Developer**
+- 💻 Enthusiastic about **Java** and **Spring Framework**
+- 🌱 Always eager to learn and explore new technologies
+- 🎯 Focused on writing clean, maintainable code and following best practices
 
-### My Tech Stack
-![Static Badge](https://img.shields.io/badge/build--blue?style=flat&logo=github&label=GitHub)
-![Static Badge](https://img.shields.io/badge/build--blue?style=flat&logo=gitlab&label=GitLab)
-![Static Badge](https://img.shields.io/badge/build--blue?style=flat&logo=spring&label=Spring)
-![Static Badge](https://img.shields.io/badge/build--blue?style=flat&logo=springboot&label=Spring%20Boot)
+## 🛠️ My Tech Stack
+Here are some of the technologies I work with:
+
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=flat&logo=gitlab)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot)
+
+## 📫 Get in Touch
+Feel free to reach out to me:
+- [Twitter](https://twitter.com/arseniykarmanov)
+- Email: akarmanoff@duck.com
+
+Thanks for visiting my profile! Let's connect and collaborate!
