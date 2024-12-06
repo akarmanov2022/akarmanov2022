@@ -1,6 +1,6 @@
 # Hello there! 👋 I'm Arseniy Karmanov
 
-Welcome to my GitHub profile! I'm a passionate Java Developer with a strong affinity for building robust applications using Java and Spring. I enjoy tackling complex problems and continuously learning new technologies to enhance my skills.
+Welcome to my profile! I’m a passionate Java Developer with a strong inclination towards building robust applications using Java and Spring. I relish the challenge of solving intricate problems and am always eager to learn and improve my skills by staying updated with the latest technologies.
 
 ## 🚀 About Me
 - 🔭 Currently working as a **Java Developer**
