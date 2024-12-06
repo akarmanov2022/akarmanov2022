@@ -1,3 +1,39 @@
-remote_theme: pages-themes/minimal@v0.2.0
+# Site settings
+title: "Arseniy Karmanov"
+description: "A brief description of your site"
+url: "http://akarmanov.me" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+
+# Author settings
+author:
+  name: "Arseniy Karmanov"
+  email: "akarmanoff@duck.com"
+
+# SEO settings
+permalink: /:year/:month/:day/:title/
+paginate: 5
+paginate_path: "/page:num/"
+
+# Plugins
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-paginate
+
+# Theme settings
+remote_theme: pages-themes/cayman@v0.2.0
+
+# Minify assets
+minify_html:
+  remove_comments: true
+  remove_intertag_spaces: true
+  remove_quotes: true
+  collapse_whitespace: true
+
+# Caching
+cache: 
+  enabled: true
+  paths:
+    - _site
