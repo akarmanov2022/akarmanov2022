@@ -5,9 +5,10 @@ plugins:
 # Theme settings
 remote_theme: pages-themes/cayman@v0.2.0
 
-# Site settings
-url: "http://akarmanov.me"
-baseurl: "" # This will remove the /akarmanov2022/ part
-
 # Author settings
 author: "Arseniy Karmanov"
+
+github:
+  is_project_page: false
+  is_user_page: false
+  is_organization_page: false
