@@ -28,7 +28,8 @@ Here are some of the technologies I work with:
 
 ## 📫 Get in Touch
 Feel free to reach out to me:
+- [GitHub](https://github.com/akarmanov2022)
 - [Twitter](https://twitter.com/arseniykarmanov)
-- Email: me@akarmanoff.ru
+- Email: me@akarmanov.me
 
 Thanks for visiting my profile! Let's connect and collaborate!
