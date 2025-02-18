@@ -11,8 +11,8 @@ author: "Arseniy Karmanov"
 markdown: CommonMarkGhPages
 
 commonmark:
-  options: ["SMART", "FOOTNOTES", "STRIKETHROUGH_DOUBLE_TILDE"]
-  extensions: ["table", "strikethrough", "autolink", "tasklist", "footnote", "definition-list", "heading-permalink"]
+  options: ["UNSAFE", "SMART", "FOOTNOTES"]
+  extensions: ["strikethrough", "autolink", "table", "tagfilter"]
 
 github:
   is_project_page: false
