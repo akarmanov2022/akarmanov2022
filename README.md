@@ -31,23 +31,24 @@ Here are some of the technologies I work with:
 <details>
 <summary>Completed Books</summary>
 
-| Cover | Title | Author | Description |
-|-------|-------|--------|-------------|
-| ![Pro Git](img/61ueFgwHyIL._SL1020_.jpg) | **Pro Git** | Scott Chacon | Mastered Git fundamentals and advanced workflows |
-| ![Effective Java](img/7167aaVxs3L._SL1500_.jpg) | **Effective Java** | Joshua Bloch | Learned best practices for Java development |
-| ![Java Concurrency](img/71ajUjqd3vL._SL1360_.jpg) | **Java Concurrency in Practice** | Brian Goetz | Deep dive into multithreading and concurrency |
-| ![Pro Spring 6](img/61ds5pF6yrL._SL1180_.jpg) | **Pro Spring 6** | Iuliana Cosmina | Explored Spring Framework internals and best practices |
-| ![JLS](img/jls21_0000.jpg) | **Java Language Specification (17-21)** | James Gosling | Studied official language syntax and semantics |
+| Cover                                             | Title                                   | Author          | Description                                            |
+| ------------------------------------------------- | --------------------------------------- | --------------- | ------------------------------------------------------ |
+| ![Pro Git](img/61ueFgwHyIL._SL1020_.jpg)          | **Pro Git**                             | Scott Chacon    | Mastered Git fundamentals and advanced workflows       |
+| ![Effective Java](img/7167aaVxs3L._SL1500_.jpg)   | **Effective Java**                      | Joshua Bloch    | Learned best practices for Java development            |
+| ![Java Concurrency](img/71ajUjqd3vL._SL1360_.jpg) | **Java Concurrency in Practice**        | Brian Goetz     | Deep dive into multithreading and concurrency          |
+| ![Pro Spring 6](img/61ds5pF6yrL._SL1180_.jpg)     | **Pro Spring 6**                        | Iuliana Cosmina | Explored Spring Framework internals and best practices |
+| ![JLS](img/jls21_0000.jpg)                        | **Java Language Specification (17-21)** | James Gosling   | Studied official language syntax and semantics         |
+
 </details>
 
 <details>
 <summary>Currently Reading</summary>
 
-| Cover | Title | Author | Progress |
-|-------|-------|--------|----------|
+| Cover                                                                                    | Title                          | Author           | Progress                            |
+| ---------------------------------------------------------------------------------------- | ------------------------------ | ---------------- | ----------------------------------- |
 | ![Algorithms](https://m.media-amazon.com/images/I/61Pgdn8Ys-L._AC_UF1000,1000_QL80_.jpg) | **Introduction to Algorithms** | Thomas H. Cormen | Core algorithms and data structures |
-| ![Kotlin in Action](img/71gWfGC2pGL._SL1500_.jpg) | **Kotlin in Action** | Dmitry Jemerov | Advancing Kotlin proficiency |
-| ![Concrete Mathematics](img/71Xanpyl6uL._SL1000_.jpg) | **Concrete Mathematics** | Ronald L. Graham | Mathematical foundations for CS |
+| ![Kotlin in Action](img/71gWfGC2pGL._SL1500_.jpg)                                        | **Kotlin in Action**           | Dmitry Jemerov   | Advancing Kotlin proficiency        |
+| ![Concrete Mathematics](img/71Xanpyl6uL._SL1000_.jpg)                                    | **Concrete Mathematics**       | Ronald L. Graham | Mathematical foundations for CS     |
 
 </details>
 

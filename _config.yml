@@ -8,6 +8,11 @@ remote_theme: pages-themes/cayman@v0.2.0
 # Author settings
 author: "Arseniy Karmanov"
 
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
 github:
   is_project_page: false
   is_user_page: false
