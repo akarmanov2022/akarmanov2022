@@ -40,7 +40,6 @@ Here are some of the technologies I work with:
 | ![JLS](img/jls21_0000.jpg)                        | **Java Language Specification (17-21)** | James Gosling   | Studied official language syntax and semantics         |
 
 </details>
-
 <details>
 <summary>Currently Reading</summary>
 
