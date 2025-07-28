@@ -4,30 +4,43 @@ title: Resume - Arseniy Karmanov
 permalink: /resume/
 ---
 
-# Arseniy Karmanov
-## Java Developer
+<div class="resume-header">
+  <div class="profile-photo">
+    <!-- 
+    Note: Add your profile photo to the img directory with the name profile-photo.jpg
+    Recommended size: 400x400 pixels, square aspect ratio
+    -->
+    <img src="/img/profile-photo.jpg" alt="Arseniy Karmanov" class="profile-image">
+  </div>
+  <div class="profile-info">
+    <h1>Arseniy Karmanov</h1>
+    <h2>Java Developer</h2>
+  </div>
+</div>
 
 ---
 
 ## 📝 Professional Summary
-Experienced Java Developer with a strong foundation in building robust applications using Java and Spring Framework. Passionate about clean code, best practices, and continuous learning. Skilled in developing scalable backend solutions and microservices architecture.
+Java Developer with 3+ years of experience in developing enterprise applications using Java and Spring Framework. Strong expertise in backend development, RESTful APIs, and database integration. Passionate about clean code, best practices, and continuous learning. Skilled in developing scalable backend solutions and microservices architecture.
 
 ---
 
 ## 💼 Professional Experience
 
 ### Java Developer
-**Company Name** | *Location* | *Date - Present*
-- Developed and maintained Java-based applications using Spring Boot and Spring Framework
-- Implemented RESTful APIs following OpenAPI specifications
-- Worked with relational databases (PostgreSQL, Oracle) using Hibernate/JPA
-- Utilized Docker for containerization and deployment
-- Collaborated with cross-functional teams using Agile methodologies
-- Implemented unit and integration tests to ensure code quality
+**Rubius** | *Tomsk* | *January 2021 - Present*
+- Develop and maintain Java-based applications using Spring Boot and Spring Framework
+- Implement RESTful APIs following OpenAPI specifications
+- Work with PostgreSQL databases using Hibernate/JPA
+- Utilize Docker for containerization and deployment
+- Collaborate with cross-functional teams using Agile methodologies
+- Implement unit and integration tests to ensure code quality
+- Participate in code reviews and knowledge sharing sessions
 
-### Previous Position
-**Company Name** | *Location* | *Start Date - End Date*
+### Junior Java Developer
+**Rubius** | *Tomsk* | *June 2020 - December 2020*
 - Contributed to the development of backend services
+- Assisted in implementing new features and fixing bugs
 - Participated in code reviews and knowledge sharing sessions
 - Assisted in troubleshooting and resolving production issues
 
@@ -35,9 +48,10 @@ Experienced Java Developer with a strong foundation in building robust applicati
 
 ## 🎓 Education
 
-### Degree Name
-**University/Institution** | *Location* | *Graduation Year*
-- Relevant coursework: Computer Science, Data Structures, Algorithms, Database Systems
+### Bachelor of Computer Science
+**Tomsk State University of Control Systems and Radioelectronics (TUSUR)** | *Tomsk* | *2020*
+- Specialization: Software Engineering
+- Relevant coursework: Computer Science, Data Structures, Algorithms, Database Systems, Software Design
 
 ---
 
@@ -78,7 +92,7 @@ Experienced Java Developer with a strong foundation in building robust applicati
 ---
 
 ## 🌐 Languages
-- English (B1)
+- English (B1 - Intermediate)
 - Russian (Native)
 
 ---
