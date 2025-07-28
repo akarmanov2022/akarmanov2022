@@ -1,6 +1,11 @@
+---
+layout: default
+title: Arseniy Karmanov - Java Developer
+---
+
 # Hello there! 👋 I'm Arseniy Karmanov
 
-Welcome to my profile! I’m a passionate Java Developer with a strong inclination towards building robust applications using Java and Spring. I relish the challenge of solving intricate problems and am always eager to learn and improve my skills by staying updated with the latest technologies.
+Welcome to my personal website! I'm a passionate Java Developer with a strong inclination towards building robust applications using Java and Spring. I relish the challenge of solving intricate problems and am always eager to learn and improve my skills by staying updated with the latest technologies.
 
 ## 🚀 About Me
 - 🔭 Currently working as a **Java Developer**
@@ -26,7 +31,6 @@ Here are some of the technologies I work with:
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code)
 
-
 ## 📚 Books and Learning
 <details>
 <summary>Completed Books</summary>
@@ -40,6 +44,7 @@ Here are some of the technologies I work with:
 | ![JLS](img/jls21_0000.jpg)                        | **Java Language Specification (17-21)** | James Gosling   | Studied official language syntax and semantics         |
 
 </details>
+
 <details>
 <summary>Currently Reading</summary>
 
@@ -54,10 +59,13 @@ Here are some of the technologies I work with:
 ## 📄 Resume
 Check out my detailed professional resume [here](/resume).
 
+## 💻 Projects
+View my portfolio of projects [here](/projects).
+
 ## 📫 Get in Touch
 Feel free to reach out to me:
 - [GitHub](https://github.com/akarmanov2022)
 - [Twitter](https://twitter.com/arseniykarmanov)
 - Email: me@akarmanov.me
 
-Thanks for visiting my profile! Let's connect and collaborate!
+Thanks for visiting my website! Let's connect and collaborate!

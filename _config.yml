@@ -1,20 +1,42 @@
+# Site settings
+title: "Arseniy Karmanov - Java Developer"
+description: "Personal website and portfolio of Arseniy Karmanov, Java Developer"
+url: "https://akarmanov2022.github.io"
+baseurl: ""
+author: "Arseniy Karmanov"
+email: "me@akarmanov.me"
+
+# Social media
+social:
+  github: akarmanov2022
+  twitter: arseniykarmanov
+
 # Plugins
 plugins:
   - jekyll-remote-theme
+  - jekyll-seo-tag
 
 # Theme settings
 remote_theme: pages-themes/cayman@v0.2.0
 
-# Author settings
-author: "Arseniy Karmanov"
+# Custom CSS
+style: /assets/css/style.css
 
+# Navigation
+header_pages:
+  - index.md
+  - resume.md
+  - projects.md
+
+# Build settings
 markdown: CommonMarkGhPages
 
 commonmark:
   options: ["UNSAFE", "SMART", "FOOTNOTES"]
   extensions: ["strikethrough", "autolink", "table", "tagfilter"]
 
+# GitHub Pages settings
 github:
   is_project_page: false
-  is_user_page: false
+  is_user_page: true
   is_organization_page: false
