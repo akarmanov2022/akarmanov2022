@@ -5,13 +5,6 @@ permalink: /resume/
 ---
 
 <div class="resume-header">
-  <div class="profile-photo">
-    <!-- 
-    Note: Add your profile photo to the img directory with the name profile-photo.jpg
-    Recommended size: 400x400 pixels, square aspect ratio
-    -->
-    <img src="/img/profile-photo.jpg" alt="Arseniy Karmanov" class="profile-image">
-  </div>
   <div class="profile-info">
     <h1>Arseniy Karmanov</h1>
     <h2>Java Developer</h2>
@@ -21,7 +14,7 @@ permalink: /resume/
 ---
 
 ## 📝 Professional Summary
-Java Developer with 3+ years of experience in developing enterprise applications using Java and Spring Framework. Strong expertise in backend development, RESTful APIs, and database integration. Passionate about clean code, best practices, and continuous learning. Skilled in developing scalable backend solutions and microservices architecture.
+Java Developer with 6+ years of experience in developing enterprise applications using Java and Spring Framework. Strong expertise in backend development, RESTful APIs, and database integration. Passionate about clean code, best practices, and continuous learning. Skilled in developing scalable backend solutions and microservices architecture.
 
 ---
 
@@ -86,11 +79,6 @@ Java Developer with 3+ years of experience in developing enterprise applications
 
 ---
 
-## 📚 Certifications
-- Certification Name | Issuing Organization | Year
-
----
-
 ## 🌐 Languages
 - English (B1 - Intermediate)
 - Russian (Native)
@@ -101,7 +89,3 @@ Java Developer with 3+ years of experience in developing enterprise applications
 - Email: me@akarmanov.me
 - GitHub: [akarmanov2022](https://github.com/akarmanov2022)
 - Twitter: [@arseniykarmanov](https://twitter.com/arseniykarmanov)
-
----
-
-*[Download PDF version](/assets/resume.pdf)*

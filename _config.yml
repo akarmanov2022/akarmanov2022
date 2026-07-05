@@ -24,9 +24,7 @@ style: /assets/css/style.css
 
 # Navigation
 header_pages:
-  - index.md
   - resume.md
-  - projects.md
 
 # Build settings
 markdown: CommonMarkGhPages
