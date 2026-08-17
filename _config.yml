@@ -2,7 +2,8 @@
 title: "Arseniy Karmanov - Java Developer"
 description: "Personal website and portfolio of Arseniy Karmanov, Java Developer"
 url: "https://akarmanov2022.github.io"
-baseurl: ""
+# Project site: served at https://akarmanov2022.github.io/akarmanov2022/
+baseurl: "/akarmanov2022"
 author: "Arseniy Karmanov"
 email: "me@akarmanov.me"
 
@@ -19,9 +20,6 @@ plugins:
 # Theme settings
 remote_theme: pages-themes/cayman@v0.2.0
 
-# Custom CSS
-style: /assets/css/style.css
-
 # Navigation
 header_pages:
   - resume.md
@@ -35,6 +33,6 @@ commonmark:
 
 # GitHub Pages settings
 github:
-  is_project_page: false
-  is_user_page: true
+  is_project_page: true
+  is_user_page: false
   is_organization_page: false
