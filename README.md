@@ -26,14 +26,6 @@ Here are some of the technologies I work with:
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat)
 
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akarmanov2022&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akarmanov2022&layout=compact)
-
-## 📄 Resume
-Check out my detailed professional resume [here](https://akarmanov2022.github.io/akarmanov2022/resume/).
-
 ## 📫 Get in Touch
 Feel free to reach out to me:
 - [GitHub](https://github.com/akarmanov2022)
